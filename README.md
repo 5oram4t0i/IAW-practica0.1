@@ -1,2 +1,2 @@
 # IAW-practica0.1
-## [Instrucciones][Pull request.pdf]
+## [Instrucciones][/Pull request.pdf]
